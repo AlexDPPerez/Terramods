@@ -1,0 +1,43 @@
+Mods: {
+	MiPrimerMod: {
+		Items: {
+			EspadaChispas: {
+				DisplayName: Espada de Chispas
+				Tooltip: Lanza chispas ardientes al atacar
+			}
+
+			Brimstone: {
+				DisplayName: Brimstone
+				Tooltip:
+					'''
+					Probablemente tuviste que hacer un pacto para conseguirlo
+					Mantén pulsado para cargar y suelta para disparar
+					'''
+			}
+		}
+
+		Projectiles: {
+			ChispaProyectil.DisplayName: Chispa
+			BrimstoneCarga.DisplayName: Carga de azufre
+			BrimstoneLaser.DisplayName: Rayo de azufre
+		}
+	}
+}
+
+Items: {
+	Brimstone: {
+		DisplayName: Brimstone
+		Tooltip: ""
+	}
+
+	EspadaChispas: {
+		DisplayName: Espada Chispas
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	BrimstoneCarga.DisplayName: Brimstone Carga
+	BrimstoneLaser.DisplayName: Brimstone Laser
+	ChispaProyectil.DisplayName: Chispa Proyectil
+}
